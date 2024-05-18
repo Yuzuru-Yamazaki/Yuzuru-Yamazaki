@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm actually the noobest dude here
  [![trophy](https://github-profile-trophy.vercel.app/?username=FemanD-AI)](https://github.com/FemanD-AI/github-profile-trophy)
+[![FemanD-AI's GitHub stats](https://github-readme-stats.vercel.app/api?username=FemanD-AI)](https://github.com/FemanD-AI/github-readme-stats)
