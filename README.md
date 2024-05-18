@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on streaming sites 
 - 🤔 I’m looking for help with Building a streaming site
 - 💬 Ask me about Basic Javascript
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.t.me/Yuzuru_Yamazaki / https://instagram.com/yuzuru_yamazak1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm actually the noobest dude here
  [![trophy](https://github-profile-trophy.vercel.app/?username=FemanD-AI)](https://github.com/FemanD-AI/github-profile-trophy)
