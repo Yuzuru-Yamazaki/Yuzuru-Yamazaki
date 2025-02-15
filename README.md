@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on A cli app(at least planning)
 - 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on just ricing 
+- 👯 I’m looking to collaborate 
 - 🤔 I’m looking for help with linux ricing
-- 💬 Ask me about nothing , idk shi
+- 💬 Ask me about linux , I know basics 
 - 📫 How to reach me: https://www.t.me/Yuzuru_Yamazaki / https://instagram.com/yuzuru_yamazak1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I actually dk shi
