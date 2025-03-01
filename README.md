@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate 
 - 🤔 I’m looking for help with linux ricing
 - 💬 Ask me about linux , I know basics 
-- 📫 How to reach me: https://www.t.me/Yuzuru_Yamazaki / https://instagram.com/yuzuru_yamazak1
+- 📫 How to reach me: https://www.t.me/Yuzuru_Yamazaki / https://instagram.com/yuzuru_y4mazaki
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I actually dk shi
  [![trophy](https://github-profile-trophy.vercel.app/?username=Yuzuru-Yamazaki)](https://github.com/Yuzuru-Yamazaki/github-profile-trophy)
