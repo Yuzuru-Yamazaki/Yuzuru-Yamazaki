@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on A cli app(at least planning)
+- 🔭 I’m currently working on A cli app
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate 
 - 🤔 I’m looking for help with linux ricing
